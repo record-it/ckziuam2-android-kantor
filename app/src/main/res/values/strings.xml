@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kantor</string>
+    <string name="calc_btn_label">Przelicz</string>
+    <string-array name="table_array">
+        <item>tabela A</item>
+        <item>tabela B</item>
+    </string-array>
+</resources>
